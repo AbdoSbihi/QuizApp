@@ -1,0 +1,4 @@
+export function isIWebSharperRemotingServerService(x):x is IWebSharperRemotingServerService
+export default interface IWebSharperRemotingServerService {
+  get WebSharper_AspNetCore_IWebSharperRemotingServerService$RemotingServer()
+}

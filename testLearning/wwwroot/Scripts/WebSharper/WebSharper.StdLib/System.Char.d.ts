@@ -1,0 +1,9 @@
+export function IsWhiteSpace(c:string):boolean
+export function Parse(s:string):string
+export function IsUpper(c:string):boolean
+export function IsLower(c:string):boolean
+export function IsLetterOrDigit(c:string):boolean
+export function IsLetter(c:string):boolean
+export function IsDigit(c:string):boolean
+export function IsControl(c:string):boolean
+export function GetNumericValue(c:string):number

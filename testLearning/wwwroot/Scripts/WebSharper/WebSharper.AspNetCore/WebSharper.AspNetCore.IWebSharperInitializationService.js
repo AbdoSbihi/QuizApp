@@ -1,0 +1,3 @@
+export function isIWebSharperInitializationService(x){
+  return"WebSharper_AspNetCore_IWebSharperInitializationService$JsonProvider"in x&&"WebSharper_AspNetCore_IWebSharperInitializationService$MetadataAndGraph"in x&&"WebSharper_AspNetCore_IWebSharperInitializationService$Options"in x&&"WebSharper_AspNetCore_IWebSharperInitializationService$RemotingServer"in x;
+}
