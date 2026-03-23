@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["dotnet-sdk_10"]
+
+[phases.build]
+cmds = ["dotnet publish -c Release -o ./publish"]
+
+[start]
+cmd = "dotnet ./publish/QuizApp.dll"

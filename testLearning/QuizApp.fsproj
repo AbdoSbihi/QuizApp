@@ -9,6 +9,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Compile Include="Dockerfile" />
+		<None Include="railway.toml" />
+		<None Include="nixpacks.toml" />
 		<Compile Include="Model.fs" />
 		<Compile Include="Server.fs" />
 		<Compile Include="Remoting.fs" />
