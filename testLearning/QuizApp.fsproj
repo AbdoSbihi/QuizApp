@@ -9,7 +9,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Compile Include="Dockerfile" />
+		<Compile Include="wwwroot\Dockerfile" />
 		<None Include="railway.toml" />
 		<None Include="nixpacks.toml" />
 		<Compile Include="Model.fs" />
