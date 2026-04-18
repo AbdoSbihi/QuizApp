@@ -1,9 +1,0 @@
-bin/
-obj/
-.vs/
-node_modules/
-wwwroot/QuizApp.js
-wwwroot/QuizApp.min.js
-wwwroot/QuizApp.css
-wwwroot/QuizApp.head.html
-wwwroot/QuizApp.head.js

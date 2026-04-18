@@ -13,10 +13,7 @@ open WebSharper.AspNetCore
 type Startup() =
 
     member _.ConfigureServices(services: IServiceCollection) =
-        // CORRECT API (from official WebSharper docs):
-        // services.AddSitelet(siteletValue) on IServiceCollection directly.
-        // This is NOT deprecated — AddSitelet on IServiceCollection is the
-        // correct way. Only AddSitelet on WebSharperOptions builder was wrong.
+   
         services
             .AddSitelet(Site.Main)
             .AddWebSharper()

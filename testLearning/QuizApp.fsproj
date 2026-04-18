@@ -16,8 +16,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".dockerignore" />
-    <Content Include="Dockerfile" />
     <Compile Include="Model.fs" />
     <Compile Include="Server.fs" />
     <Compile Include="Remoting.fs" />
