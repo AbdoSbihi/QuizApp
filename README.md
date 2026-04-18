@@ -4,22 +4,22 @@ Quiz App
 
 An interactive quiz web applivation built with F# and WebSharper, combining functional programming with modern web technologies
 
-Features : 
+  *  Features : 
 - Multuiple choice using WebSharper
 - Dynamic UI using WebSharper
 - Client-server architecture in F#
 - Real-time scoring 
 - Clean separation of frontend and backend
 
-Tech Stack : 
+  *  Tech Stack : 
 - Language : F#
 - Framework: WebSharper
 - Frontend : HTML + JavaScript
 - Backend : ASP.NET Core
 - Tooling : Node.js(for dependencies ) , Type Script config
 
-  Deploymeny and hosting  :
- the project is gonna be hosted by azure (on going work )
+  *  Deploymeny and hosting  :
+ the project is Hosted by Azure (find the try live link the repository structure)
 
 Project Structure(v1) : 
 QuizApp/
