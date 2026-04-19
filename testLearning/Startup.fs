@@ -30,7 +30,7 @@ type Startup() =
         defaultFiles.DefaultFileNames.Add("Main.html")
         app.UseDefaultFiles(defaultFiles) |> ignore
 
-        // Serve static files from wwwroot/ (Main.html, QuizApp.min.js, QuizApp.css)
+        // Serve static files from wwwroot
         app.UseStaticFiles() |> ignore
 
         // WebSharper handles RPC calls at /api/websharper/*
