@@ -39,3 +39,16 @@ QuizApp/
 │── package.json                 # Node dependencies
 │── tsconfig.json                # TypeScript config
 │── wsconfig.json                # WebSharper config
+
+In_side Screenshots from the Quiz website : 
+
+1-Surface of the Quiz  : 
+<img width="1919" height="996" alt="1" src="https://github.com/user-attachments/assets/2c6965f7-38a3-47ef-b680-09dff2c35081" />
+
+2 - Inside the quiz questions and UI : 
+<img width="1920" height="1039" alt="2" src="https://github.com/user-attachments/assets/d9a37be7-da90-4eb4-ae47-3e64a699b87f" />
+
+3 - Final results_Ranking and leaderboard :
+<img width="1920" height="1034" alt="3" src="https://github.com/user-attachments/assets/02bb420c-81b2-4a25-a48e-b1d7728754a7" />
+
+
