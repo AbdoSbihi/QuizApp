@@ -48,11 +48,9 @@ How the Quiz game looking  :
 <img width="1919" height="996" alt="1" src="https://github.com/user-attachments/assets/2c6965f7-38a3-47ef-b680-09dff2c35081" />
 
 2 - Inside the quiz questions and UI : 
-<img width="1920" height="1039" alt="2" src="https://github.com/user-attachments/assets/d9a37be7-da90-4eb4-ae47-3e64a699b87f" />
+<img width="1920" height="1078" alt="2" src="https://github.com/user-attachments/assets/1cfe8b60-8892-474d-8896-9a1340bcc11b" />
 
 3 - Final results_Ranking and leaderboard :
-<img width="1920" height="1034" alt="3" src="https://github.com/user-attachments/assets/02bb420c-81b2-4a25-a48e-b1d7728754a7" />
-
-
+<img width="1920" height="1078" alt="3" src="https://github.com/user-attachments/assets/2522c297-367a-489e-b6ce-6c35f5e53016" />
 
 
